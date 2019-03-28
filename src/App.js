@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 
 let defaultStyle = {
-  color: '#fff'
+  color: '#000'
 };
 
 class Aggregate extends Component {
